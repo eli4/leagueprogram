@@ -1,4 +1,4 @@
-# leagueprogram
+# League Stats
 
 Important:
 To run the program you will need to edit the app.config file. You will need to request an api key from https://developer.riotgames.com/ to run the program.
